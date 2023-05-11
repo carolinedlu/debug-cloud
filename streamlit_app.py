@@ -7,4 +7,4 @@ import streamlit as st
 # cwd = os.getcwd()
 # st.write(cwd)
 
-st.write.
+st.write("Hello")
